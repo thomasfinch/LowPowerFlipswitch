@@ -1,0 +1,10 @@
+Package: me.thomasfinch.lowpowerflipswitch
+Name: LowPowerFlipswitch
+Description: A Flipswitch for low power mode
+Version: 1.0
+Priority: optional
+Section: Addons (Flipswitch)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>=9)
+Maintainer: Thomas Finch
+Author: Thomas Finch
